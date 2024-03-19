@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|c:\\users\\admin\\onedrive\\desktop\\software engineering capstone\\keycloak\\keycloak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|solutionrelative:keycloak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|c:\\users\\admin\\onedrive\\desktop\\software engineering capstone\\keycloak\\keycloak\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|solutionrelative:keycloak\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|c:\\users\\admin\\onedrive\\desktop\\software engineering capstone\\keycloak\\keycloak\\controllers\\sprintscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|solutionrelative:keycloak\\controllers\\sprintscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|c:\\users\\admin\\onedrive\\desktop\\software engineering capstone\\keycloak\\keycloak\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|solutionrelative:keycloak\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|c:\\users\\admin\\onedrive\\desktop\\software engineering capstone\\keycloak\\keycloak\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|solutionrelative:keycloak\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|c:\\users\\admin\\onedrive\\desktop\\software engineering capstone\\keycloak\\keycloak\\data\\model\\sprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|solutionrelative:keycloak\\data\\model\\sprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|c:\\users\\admin\\onedrive\\desktop\\software engineering capstone\\keycloak\\keycloak\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|solutionrelative:keycloak\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|c:\\users\\admin\\onedrive\\desktop\\software engineering capstone\\keycloak\\keycloak\\migrations\\20240317131112_temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|solutionrelative:keycloak\\migrations\\20240317131112_temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|c:\\users\\admin\\onedrive\\desktop\\software engineering capstone\\keycloak\\keycloak\\migrations\\20240317125044_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C3B918-96D4-4A99-9072-8A87FD70CF49}|KeyCloak\\KeyCloak.csproj|solutionrelative:keycloak\\migrations\\20240317125044_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240317131112_temp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Migrations\\20240317131112_temp.cs",
+              "RelativeDocumentMoniker": "KeyCloak\\Migrations\\20240317131112_temp.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Migrations\\20240317131112_temp.cs",
+              "RelativeToolTip": "KeyCloak\\Migrations\\20240317131112_temp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:11:13.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SprintsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Controllers\\SprintsController.cs",
+              "RelativeDocumentMoniker": "KeyCloak\\Controllers\\SprintsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Controllers\\SprintsController.cs",
+              "RelativeToolTip": "KeyCloak\\Controllers\\SprintsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T12:53:05.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "KeyCloak\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Data\\Context.cs",
+              "RelativeToolTip": "KeyCloak\\Data\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:52:33.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sprint.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Data\\Model\\Sprint.cs",
+              "RelativeDocumentMoniker": "KeyCloak\\Data\\Model\\Sprint.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Data\\Model\\Sprint.cs",
+              "RelativeToolTip": "KeyCloak\\Data\\Model\\Sprint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:52:49.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Program.cs",
+              "RelativeDocumentMoniker": "KeyCloak\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Program.cs",
+              "RelativeToolTip": "KeyCloak\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAcwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T06:21:41.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240317125044_init.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Migrations\\20240317125044_init.cs",
+              "RelativeDocumentMoniker": "KeyCloak\\Migrations\\20240317125044_init.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Migrations\\20240317125044_init.cs",
+              "RelativeToolTip": "KeyCloak\\Migrations\\20240317125044_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T12:50:44.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\appsettings.json",
+              "RelativeDocumentMoniker": "KeyCloak\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\appsettings.json",
+              "RelativeToolTip": "KeyCloak\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-17T09:11:33.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "KeyCloak\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Controllers\\TestController.cs",
+              "RelativeToolTip": "KeyCloak\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:45:33.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KeyCloak\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KeyCloak\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-17T09:11:38.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

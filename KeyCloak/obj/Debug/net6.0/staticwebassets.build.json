@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "7tsHsfY7Tz6La5Ofw4JmDB4nT3sAJyd6Osx1qIxLcLM=",
+  "Source": "KeyCloak",
+  "BasePath": "_content/KeyCloak",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "KeyCloak\\wwwroot",
+      "Source": "KeyCloak",
+      "ContentRoot": "C:\\Users\\Admin\\OneDrive\\Desktop\\Software Engineering Capstone\\KeyCloak\\KeyCloak\\wwwroot\\",
+      "BasePath": "_content/KeyCloak",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
